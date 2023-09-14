@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+h1{
+    color:red;
+}
+h2{
+    color:green;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid blue;
+    height: 20%;
+    width: 20%;
+}
